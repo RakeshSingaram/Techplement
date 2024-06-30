@@ -1,0 +1,4 @@
+-l tells that length of the input password
+-u refers that the uppercase of the password
+-lc tells the lowercase
+-d tells the digits
